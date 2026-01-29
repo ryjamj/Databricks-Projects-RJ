@@ -1,6 +1,6 @@
 
 
-# Project: U.S. Emissions Analysis Dashboard
+# Project: U.S. Emissions Analysis Dashboard (Databricks Demo)
 This project is a comprehensive data engineering and visualization pipeline built on the Databricks Lakehouse Platform. Inspired by a Databricks industry demo, I utilized EPA (Environmental Protection Agency) 2023 data to analyze and visualize carbon emissions across the United States.
 
 ## Technical Workflow
