@@ -22,3 +22,6 @@ Granular Reporting: County-level breakdown of total metric tons of CO 2.
 
 ## Key Insights
 The dashboard reveals critical trends in environmental data, such as the disproportionate impact of specific industrial hubs and the inverse relationship between high-population urban centers and individual emission rates.
+
+
+![#f03c15](https://github.com/ryjamj/Databricks-Projects-RJ/blob/main/Demo_Emissions/Emissions%20Dashboard.png)
